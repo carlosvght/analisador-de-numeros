@@ -1,0 +1,28 @@
+body {
+  background: #30336b;
+  font: normal 22px arial;
+}
+
+header {
+  color: #fff;
+  text-align: center;
+}
+
+section {
+  background: #fff;
+  border-radius: 10px;
+  padding: 25px;
+  width: 550px;
+  margin: auto;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.596);
+}
+
+div {
+  text-align: center;
+  padding: 10px;
+}
+
+#flista {
+  width: 150px;
+  height: 200px;
+}
